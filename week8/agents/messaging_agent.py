@@ -30,8 +30,8 @@ class MessagingAgent(Agent):
             # self.client = Client(account_sid, auth_token)
             self.log("Messaging Agent has initialized Twilio")
         if DO_PUSH:
-            self.pushover_user = os.getenv('PUSHOVER_USER', 'your-pushover-user-if-not-using-env')
-            self.pushover_token = os.getenv('PUSHOVER_TOKEN', 'your-pushover-user-if-not-using-env')
+            self.pushover_user = os.getenv('PUSHOVER_USER', '')
+            self.pushover_token = os.getenv('PUSHOVER_TOKEN', '')
             self.log("Messaging Agent has initialized Pushover")
 
     def message(self, text):

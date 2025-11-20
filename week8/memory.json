@@ -16,5 +16,23 @@
     },
     "estimate": 930.8824204895075,
     "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Toshiba M550 Series 55M550NU is a 55-inch QLED 4K UHD Fire TV that delivers stunning picture quality with 4K resolution. It features advanced HDR technologies such as Dolby Vision, HDR 10, and HLG for vibrant colors and deep contrast. With a sleek design, the TV integrates seamlessly into any living space and is equipped with Amazon Alexa and Apple HomeKit compatibility. Connectivity options include four HDMI inputs, allowing for easy connection to various devices.",
+      "price": 250.0,
+      "url": "https://www.dealnews.com/products/Toshiba/Toshiba-M550-Series-55-M550-NU-55-QLED-4-K-UHD-Fire-TV/489273.html?iref=rss-f1912"
+    },
+    "estimate": 780.3637769855893,
+    "discount": 530.3637769855893
+  },
+  {
+    "deal": {
+      "product_description": "The TCL Q Series 98Q51CG is a massive 98\" 4K QLED UHD Smart TV, providing stunning visuals with a resolution of 3840x2160. It features advanced HDR technology, including HDR10, HLG, and Dolby Vision IQ, for vibrant colors and contrast. This TV is powered by Google TV OS, boasting built-in Google Assistant and Chromecast support for seamless streaming and control. With a 144Hz refresh rate and multiple HDMI inputs, this television is perfect for gaming and viewing enjoyment.",
+      "price": 998.0,
+      "url": "https://www.dealnews.com/TCL-Q-Series-98-Q51-CG-98-4-K-QLED-UHD-Smart-TV-for-998-free-shipping/21786089.html?iref=rss-f1912"
+    },
+    "estimate": 2564.8276712907627,
+    "discount": 1566.8276712907627
   }
 ]

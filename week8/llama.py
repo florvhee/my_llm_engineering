@@ -16,6 +16,9 @@ def generate(prompt: str) -> str:
     import os
     import torch
     from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, set_seed
+    from huggingface_hub import login
+
+    login(os.environ["HF_TOKEN"])
 
     # Quant Config
     quant_config = BitsAndBytesConfig(
